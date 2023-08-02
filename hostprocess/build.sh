@@ -1,7 +1,7 @@
 #!/bin/bash
 
 repository=${repository:-"sigwindowstools"}
-flannelVersion=${flannelVersion:-"v0.14.0"}
+flannelVersion=${flannelVersion:-"v0.21.5"}
 calicoVersion=${calicoVersion:-"v3.25.0"}
 
 SCRIPTROOT=$(dirname "${BASH_SOURCE[0]}")
